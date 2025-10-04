@@ -1,4 +1,4 @@
-# UAV Strategic Deconfliction in Shared Airspace
+# UAV Deconfliction in Shared Airspace
 
 ## Overview
 This project implements a strategic deconfliction system for multiple drones operating in shared airspace. The system can:  
