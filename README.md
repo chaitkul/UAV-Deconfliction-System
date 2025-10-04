@@ -10,9 +10,8 @@ This project implements a strategic deconfliction system for multiple drones ope
 ## Setup
 
 ### 1. Clone the repository
-    "```bash"
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/chaitkul/UAV-Deconfliction-System.git
+    cd UAV-Deconfliction-System/
 
 ### 2. Install dependencies
     pip install -r requirements.txt
